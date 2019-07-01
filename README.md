@@ -15,18 +15,6 @@ The data has been reformatted as HDF5 and specifically Keras HDF5Matrix which al
 
 We are visulizing accuracy and loss of validation after each epoch using matplotlib library.
 
-Installation
-==================
-
-To start with project just follow the few steps
-
-	$ git clone https://github.com/keyurr2/shape-classifier-cnn.git
-	$ pip install -r requirements.txt
-
-This will install python libraries required to start with Deep Learning like Tensorflow and Keras
-
-NOTE: We are using Python 3 in this project.
-
 
 How to run this project
 ==================================================
